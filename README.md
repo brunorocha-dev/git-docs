@@ -20,26 +20,26 @@ feitas em um projeto ao longo do tempo.
 
 ### Exemplo prático: 
 <p align="center">
-  <img alt="feat user" src="./assets/feat-user.png" style="border-radius: 8px;">
+  <img alt="feat user" src="./assets/feat-user.png">
 </p>
 
 ## >_ The most common actions:
 <p align="center">
-  <img alt="feat fix docs" src="./assets/feat-fix-docs.png" style="border-radius: 8px;">
+  <img alt="feat fix docs" src="./assets/feat-fix-docs.png">
 </p>
 
 <p align="center">
-  <img alt="style refactor" src="./assets/style-refactor.png" style="border-radius: 8px;">
+  <img alt="style refactor" src="./assets/style-refactor.png">
 </p>
 
 <p align="center">
-  <img alt="test chore" src="./assets/test-chore.png" style="border-radius: 8px;">
+  <img alt="test chore" src="./assets/test-chore.png">
 </p>
 
 <p align="center">
-  <img alt="perf revert" src="./assets/perf-revert.png" style="border-radius: 8px;">
+  <img alt="perf revert" src="./assets/perf-revert.png">
 </p>
 
 <p align="center">
-  <img alt="aspas" src="./assets/aspas.png" style="border-radius: 8px;">
+  <img alt="aspas" src="./assets/aspas.png">
 </p>
